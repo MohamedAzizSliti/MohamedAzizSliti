@@ -135,12 +135,23 @@ End-to-end automated workflow system leveraging AI for intelligent decision-maki
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAzizSliti&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" />
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohamedAzizSliti&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED)
+
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedAzizSliti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizSliti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAzizSliti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizSliti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8&exclude_repo=repo-name-if-needed)
+
+</div>
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAzizSliti&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F80ED&line=2F80ED&point=C9D1D9)
+
 </div>
 
 ---
