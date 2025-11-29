@@ -1,116 +1,168 @@
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Mohamed+Aziz+Sliti;Full+Stack+Mobile+Developer;Flutter+%7C+React+Native+%7C+Node.js;Welcome+to+my+GitHub+Profile!" />
-</p>
+<div align="center">
+
+# Hi there, I'm Mohamed Aziz Sliti 👋
+
+### Full Stack Mobile Developer | Flutter • React Native • Node.js
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Cross-Platform+Experiences;Crafting+Scalable+Backend+Solutions;Passionate+About+Clean+Code;Always+Learning+%26+Innovating" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-sliti-a511b31ba/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAzizSliti)
+[![Profile Views](https://komarev.com/ghpvc/?username=MohamedAzizSliti&label=Profile+Views&color=2F80ED&style=for-the-badge)](https://github.com/MohamedAzizSliti)
+
+</div>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I'm **Mohamed Aziz Sliti**, a passionate **Full Stack Mobile Developer** focused on building:
-- High-quality cross-platform apps  
-- Scalable backend APIs  
-- Real-time experiences  
-- Clean UI/UX mobile solutions  
+I'm a passionate **Full Stack Mobile Developer** based in **Tunis, Tunisia**, specializing in creating high-quality, scalable, and user-centric applications. With expertise spanning mobile, frontend, and backend development, I bring ideas to life with clean code and innovative solutions.
 
-💡 *Fast worker — clean code — always learning — ready for challenges.*
+**What I Do:**
+- 📱 Build cross-platform mobile applications with seamless performance
+- 🎨 Design intuitive and beautiful user interfaces
+- ⚙️ Develop robust and scalable backend APIs
+- 🤖 Integrate AI and automation solutions
+- ⚡ Create real-time experiences with modern technologies
 
-📍 Based in Tunis, Tunisia  
-🤝 Available for freelance & long-term projects  
+**My Approach:**
+- ✨ Clean, maintainable code
+- 🚀 Fast execution and delivery
+- 📚 Continuous learning and improvement
+- 🎯 Solution-oriented mindset
 
----
-
-# 🛠️ Tech Stack
-
-## 📱 **Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-## 🎨 **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-
-## 🧩 **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-## ⚒️ **Tools & Others**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B6A?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-</p>
+💼 **Available for freelance projects and long-term collaborations**
 
 ---
 
-# ⭐ Featured Projects
+## 🛠️ Technology Stack
 
-### 🔹 **Chatchout — Real-Time Chat App**  
-Flutter • Firebase • Notifications  
-> Real-time messaging + beautiful UI.
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🔹 **Coach Finder — Coaching & Events App**  
-Flutter • Node.js  
-> Book events, manage profiles, plan activities.
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🔹 **Parkey — Parking Zone App**  
-React.js • OpenStreetMap  
-> Real-time public/private parking zone viewer.
+### 🔧 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 🔹 **Student Club App**  
-Flutter • Socket.io  
-> Events, notifications, real-time updates.
+### 🗄️ Databases & Backend Services
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-### 🔹 **AI Agent / Automation System**  
-n8n • Supabase • RAG  
-> End-to-end automated workflows with AI integration.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAzizSliti&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAzizSliti&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizSliti&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B6A?style=for-the-badge&logo=n8n&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
 ---
 
-# 🌐 Connect with Me
+## ⭐ Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-aziz-sliti-a511b31ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MohamedAzizSliti">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 💬 Chatchout
+**Real-Time Chat Application**
+
+Technologies: `Flutter` `Firebase` `Push Notifications`
+
+A feature-rich messaging platform with real-time communication, beautiful UI/UX, and seamless user experience. Includes typing indicators, read receipts, and media sharing.
+
+</td>
+<td width="50%">
+
+### 🎯 Coach Finder
+**Coaching & Events Management**
+
+Technologies: `Flutter` `Node.js` `REST API`
+
+Comprehensive platform for booking coaching sessions, managing events, and organizing activities. Features user profiles, scheduling, and payment integration.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🅿️ Parkey
+**Smart Parking Solution**
+
+Technologies: `React.js` `OpenStreetMap` `Real-time API`
+
+Interactive map-based application for finding and managing parking zones. Displays real-time availability for both public and private parking areas.
+
+</td>
+<td width="50%">
+
+### 🎓 Student Club App
+**Campus Event Management**
+
+Technologies: `Flutter` `Socket.io` `Real-time Updates`
+
+Dynamic platform for student organizations featuring event management, real-time notifications, and community engagement tools.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" colspan="2">
+
+### 🤖 AI Agent & Automation System
+**Intelligent Workflow Automation**
+
+Technologies: `n8n` `Supabase` `RAG` `AI Integration`
+
+End-to-end automated workflow system leveraging AI for intelligent decision-making, data processing, and seamless integration across multiple platforms.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MohamedAzizSliti&label=Profile+Views&color=2F80ED&style=flat-square" /> 
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAzizSliti&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedAzizSliti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizSliti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</div>
 
 ---
 
-### 🚀 *Thanks for visiting my profile!*
+## 🤝 Let's Connect
+
+I'm always excited to collaborate on innovative projects and discuss new opportunities. Whether you need a mobile app, a full-stack solution, or technical consultation, feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Aziz_Sliti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-sliti-a511b31ba/)
+[![GitHub](https://img.shields.io/badge/GitHub-MohamedAzizSliti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAzizSliti)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting my profile! Let's build something amazing together.** 🚀
+
+</div>
