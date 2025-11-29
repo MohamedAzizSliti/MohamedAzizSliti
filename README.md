@@ -147,7 +147,17 @@ End-to-end automated workflow system leveraging AI for intelligent decision-maki
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizSliti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8&exclude_repo=repo-name-if-needed)
 
 </div>
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAzizSliti&theme=tokyonight" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedAzizSliti&theme=tokyonight" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedAzizSliti&theme=tokyonight" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedAzizSliti&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedAzizSliti&theme=tokyonight" alt="Productive Time" />
+
+</div>
 <div align="center">
   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAzizSliti&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F80ED&line=2F80ED&point=C9D1D9)
